@@ -1,0 +1,3 @@
+rootProject.name = 'TCMHealthManagement'
+
+include ':app'
