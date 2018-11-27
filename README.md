@@ -1,5 +1,6 @@
 # TCM-HealthManagement
-##中医健康管理APP
+
+## 中医健康管理APP
 
 成都中医药大学2015届医学信息工程学院毕业设计
 
